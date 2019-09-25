@@ -1,3 +1,5 @@
+#https://www.linkedin.com/pulse/nexus-nxs-coin-ubuntu-1804-wallet-compiling-article-masum-chowdhury-/
+
 # Nexus Interface
 
 ### Current Version: 1.2.3
